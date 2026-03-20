@@ -1,182 +1,154 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,25:020215,60:050530,100:00f7ff&height=300&section=header&text=SAGAR%20DUBILE&fontSize=80&fontColor=ffffff&fontAlignY=48&animation=fadeIn&stroke=00f7ff&strokeWidth=2&desc=AI%20Engineer%20%E2%80%A2%20Blockchain%20Dev%20%E2%80%A2%20Problem%20Wrecker&descAlignY=66&descSize=18&descColor=00f7ff"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=600&color=00F7FF&center=true&vCenter=true&width=800&lines=%3E+94%25+facial+recognition+accuracy.+Built+from+scratch.;%3E+Ethereum+smart+contracts+in+production.+Daily.;%3E+Semantic+search+engine+with+transformer+embeddings.;%3E+Smart+India+Hackathon+2025+%E2%80%94+National+Finalist.;%3E+AI+%C3%97+Blockchain.+That%27s+my+intersection.;%3E+Currently+shipping+at+Shamgar+Software.+%E2%9B%93)](https://github.com/DubileSagar)
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d0d2e,60:0f0f4a,100:00d4ff&height=200&section=header&text=Sagar%20Ramesh%20Dubile&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=AI%20Engineer%20%7C%20Blockchain%20Developer%20%7C%20Builder&descAlignY=78&descSize=16&descColor=8ab4f8"/>
 
 <br/>
 
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+AI+systems+that+solve+real+problems.;Writing+smart+contracts+that+can%27t+be+exploited.;94%25+facial+recognition+accuracy+%E2%80%94+production-ready.;Semantic+search+that+understands+meaning%2C+not+keywords.;SIH+2025+National+Finalist.+IBM+Blockchain+Certified.;Open+to+opportunities+%E2%80%94+let%27s+build+something+real.)](https://github.com/DubileSagar)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-dubile-2079b0306/)&nbsp;[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubile.sagarr@gmail.com)&nbsp;[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DubileSagar)&nbsp;[![Profile Views](https://komarev.com/ghpvc/?username=DubileSagar&color=00f7ff&style=for-the-badge&label=VISITORS)](https://github.com/DubileSagar)
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-dubile-2079b0306/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubile.sagarr@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DubileSagar)
+[![Visitors](https://komarev.com/ghpvc/?username=DubileSagar&color=00d4ff&style=for-the-badge&label=Profile+Views)](https://github.com/DubileSagar)
 
 </div>
 
 ---
 
-<img align="right" width="370" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
+<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### `$ whoami`
+### About Me
 
-```bash
-{
-  "name"       :  "Sagar Ramesh Dubile",
-  "role"       :  "AI Engineer + Blockchain Dev",
-  "location"   :  "India 🇮🇳",
-  "education"  :  "B.Tech CS · VIT-AP · CGPA 8.81",
-  "working_at" :  "Shamgar Software Solutions ⛓️",
-  "specialty"  :  "AI × Web3 — where both worlds collide",
-  "status"     :  "🟢 ONLINE · always building",
-  "runs_on"    :  ["caffeine", "curiosity", "deadlines"]
-}
+I'm a final-year CS student at VIT Andhra Pradesh with a deep focus on **AI/ML** and **Blockchain engineering**. I don't just study these fields — I build with them.
+
+In the past year I've shipped a civic AI platform used for real grievance tracking, built a semantic search engine from scratch using transformer embeddings, and written production Ethereum smart contracts with gas optimization and security auditing.
+
+I care about systems that work in the real world — not just demos.
+
+```
+Location   →  India 🇮🇳
+Education  →  B.Tech CS · VIT-AP · CGPA 8.81 / 10
+Focus      →  AI Engineering × Blockchain Development  
+Status     →  Open to full-time / internship roles 🟢
 ```
 
 <br clear="both"/>
 
 ---
 
-### `$ ls ./projects --sort=impact`
+### What I've Built
 
 <br/>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+**🏙️ JanVaani — AI-Powered Civic Grievance Platform**
 
-**🏙️ JanVaani**
-> AI-Powered Civic Grievance Platform
+A platform that brings accountability to civic issue resolution. Citizens report problems, AI auto-classifies them, and district-level RBAC dashboards track every complaint through its lifecycle. Built with real scalability in mind — secure APIs, modular architecture, SLA adherence monitoring.
 
-Built a system that forces government accountability. AI autofills issue categories, maps track complaints in real-time, RBAC dashboards push resolution.
+> `+45% prioritization accuracy` &nbsp;·&nbsp; `+60% citizen engagement` &nbsp;·&nbsp; `-35% resolution time`
 
-`AI Autofill` `Map Visualization` `RBAC` `REST APIs` `SLA Tracking`
-
-📈 **+45%** prioritization · **+60%** engagement · **-35%** resolution time
-
-</td>
-<td width="50%" valign="top">
+---
 
 **🔍 Neural Semantic Search Engine**
-> Search That Actually Understands You
 
-Not keyword matching. Not TF-IDF. Real semantic understanding via transformer embeddings. Custom cache layer. FastAPI for sub-ms serving.
+Most search is keyword matching with a fancy UI. This isn't. Built a full semantic retrieval system using Sentence Transformers and ChromaDB — the engine understands *what you mean*, not just what you typed. Added PCA + Fuzzy C-Means for soft topic clustering and a custom semantic cache served via FastAPI for near-zero latency on repeat queries.
 
-`Sentence Transformers` `ChromaDB` `PCA` `Fuzzy C-Means` `FastAPI`
-
-📈 **Semantic** understanding · **Sub-ms** cache latency · **Soft** topic clustering
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**👁️ TraceID**
-> Frame-wise CCTV Facial Recognition
-
-94% accuracy identifying missing individuals from CCTV footage. Automated frame-by-frame detection. Timestamp logging. 70% less manual effort.
-
-`Python` `OpenCV` `Deep Learning` `Face Recognition` `Real-Time`
-
-📈 **94%** accuracy · **-70%** manual effort · **Real-time** processing
-
-</td>
-<td width="50%" valign="top">
-
-**⛓️ Smart Contracts @ Shamgar**
-> Ethereum Dev · Nov 2025 – Mar 2026
-
-Writing, reviewing, and auditing Ethereum smart contracts. Gas optimization. Vulnerability assessment. Unit testing pipelines that prevent logic flaws.
-
-`Solidity` `Ethereum` `Hardhat` `Remix` `Gas Optimization`
-
-📈 **Secure** contract logic · **Gas-optimized** · **Audit-ready**
-
-</td>
-</tr>
-</table>
+> `Transformer-based retrieval` &nbsp;·&nbsp; `Custom semantic cache` &nbsp;·&nbsp; `FastAPI serving` &nbsp;·&nbsp; `Sub-ms cached queries`
 
 ---
 
-### `$ cat skills.config`
+**👁️ TraceID — Frame-wise CCTV Facial Recognition**
+
+Python-based system for identifying missing individuals across CCTV footage. Frame-by-frame face detection, automated timestamp logging, optimized matching pipeline for real-time throughput. Reduced manual review effort by 70% with 94% identification accuracy.
+
+> `94% accuracy` &nbsp;·&nbsp; `-70% manual effort` &nbsp;·&nbsp; `Real-time frame processing`
+
+---
+
+**⛓️ Smart Contract Engineering — Shamgar Software Solutions** *(Nov 2025 – Mar 2026)*
+
+Worked as a Blockchain Engineer intern building and auditing Ethereum smart contracts. Designed modular contract systems with gas optimization, ran vulnerability assessments, and built unit testing pipelines that caught logic flaws before deployment.
+
+> `Solidity` &nbsp;·&nbsp; `Hardhat` &nbsp;·&nbsp; `Gas optimization` &nbsp;·&nbsp; `Security auditing` &nbsp;·&nbsp; `Unit testing pipelines`
+
+---
+
+### Tech Stack
 
 <div align="center">
 
-| Domain | Stack | Proficiency |
-|:---|:---|:---|
-| 🧠 **AI / ML** | Python · TensorFlow · PyTorch · Scikit-learn · HuggingFace | `▰▰▰▰▰▰▰▰▰▰` |
-| 🔍 **NLP / Search** | Sentence Transformers · ChromaDB · RAG · Embeddings · FastAPI | `▰▰▰▰▰▰▰▰▰░` |
-| ⛓️ **Blockchain** | Solidity · Ethereum · Hardhat · Remix · DApps · Web3 | `▰▰▰▰▰▰▰▰▰░` |
-| 📊 **Data Analytics** | Power BI · Pandas · EDA · KPI Dashboards · Excel | `▰▰▰▰▰▰▰▰▰▰` |
-| ☁️ **Cloud (AWS)** | Foundations · Architecting · S3 · EC2 | `▰▰▰▰▰▰▰░░░` |
-| 🤖 **Automation** | n8n · FastAPI · REST APIs · Git · Jupyter | `▰▰▰▰▰▰▰▰▰▰` |
+**Artificial Intelligence & Machine Learning**
 
-</div>
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=4fc3f7)
+![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a1a2e?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a2e?style=for-the-badge&logo=huggingface&logoColor=FFD21F)
 
-<br/>
+**Blockchain & Web3**
 
-<div align="center">
+![Solidity](https://img.shields.io/badge/Solidity-1a1a2e?style=for-the-badge&logo=solidity&logoColor=a0a0ff)
+![Ethereum](https://img.shields.io/badge/Ethereum-1a1a2e?style=for-the-badge&logo=ethereum&logoColor=627EEA)
+![Hardhat](https://img.shields.io/badge/Hardhat-1a1a2e?style=for-the-badge&logo=hardhat&logoColor=F7DF1E)
+![Web3.js](https://img.shields.io/badge/Web3.js-1a1a2e?style=for-the-badge&logo=web3dotjs&logoColor=F16822)
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=00f7ff)&nbsp;![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)&nbsp;![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)&nbsp;![Scikit](https://img.shields.io/badge/Scikit--learn-0d1117?style=flat-square&logo=scikitlearn&logoColor=F7931E)&nbsp;![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1117?style=flat-square&logo=huggingface&logoColor=FFD21F)&nbsp;![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=flat-square&logo=solidity&logoColor=white)&nbsp;![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=flat-square&logo=ethereum&logoColor=627EEA)&nbsp;![Hardhat](https://img.shields.io/badge/Hardhat-0d1117?style=flat-square&logo=hardhat&logoColor=F7DF1E)&nbsp;![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=flat-square&logo=fastapi&logoColor=009688)&nbsp;![AWS](https://img.shields.io/badge/AWS-0d1117?style=flat-square&logo=amazonaws&logoColor=FF9900)&nbsp;![PowerBI](https://img.shields.io/badge/Power_BI-0d1117?style=flat-square&logo=powerbi&logoColor=F2C811)&nbsp;![n8n](https://img.shields.io/badge/n8n-0d1117?style=flat-square&logo=n8n&logoColor=EA4B71)&nbsp;![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=flat-square&logo=pandas&logoColor=150458)&nbsp;![Git](https://img.shields.io/badge/Git-0d1117?style=flat-square&logo=git&logoColor=F05032)
+**Data · APIs · Cloud · Tools**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=4fc3f7)
+![Power BI](https://img.shields.io/badge/Power_BI-1a1a2e?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![n8n](https://img.shields.io/badge/n8n-1a1a2e?style=for-the-badge&logo=n8n&logoColor=EA4B71)
+![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=4fc3f7)
 
 </div>
 
 ---
 
-### `$ git log --oneline --all`
+### GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DubileSagar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=00f7ff&icon_color=7c3aed&text_color=a0b4c8&ring_color=00f7ff&include_all_commits=true"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DubileSagar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=00f7ff&text_color=a0b4c8&langs_count=8"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=DubileSagar&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e&ring_color=00d4ff&include_all_commits=true"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DubileSagar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=DubileSagar&theme=tokyonight&hide_border=true&background=0d0d1a&ring=00f7ff&fire=7c3aed&currStreakLabel=00f7ff&sideLabels=a0b4c8&dates=a0b4c8&currStreakNum=ffffff&sideNums=ffffff"/>
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=DubileSagar&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&currStreakNum=e6edf3&sideNums=e6edf3"/>
 
 </div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DubileSagar&theme=tokyo-night&bg_color=0d0d1a&color=00f7ff&line=7c3aed&point=ffffff&area=true&area_color=00f7ff&hide_border=true)](https://github.com/DubileSagar)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DubileSagar&theme=tokyo-night&bg_color=0d1117&color=00d4ff&line=7c3aed&point=e6edf3&area=true&area_color=00d4ff&hide_border=true)](https://github.com/DubileSagar)
 
 </div>
 
 ---
 
-### `$ cat achievements.log`
+### Certifications & Achievements
 
-```diff
-+ [2025]  🏆  Smart India Hackathon 2025 ............ FINALIST  — National Level
-+ [2025]  🔗  IBM Blockchain Developer .............. CERTIFIED
-+ [2025]  ☁️   AWS Cloud Foundations ................. CERTIFIED
-+ [2025]  ☁️   AWS Cloud Architecting ................ CERTIFIED
-+ [2026]  💼  Blockchain Eng @ Shamgar Software ...... ACTIVE
-+ [****]  🎓  B.Tech CS @ VIT-AP .................... CGPA: 8.81 / 10.0
-```
+| | |
+|---|---|
+| 🏆 Smart India Hackathon 2025 | **National Finalist** — competed among thousands of teams across India |
+| 🔗 IBM Blockchain Developer | **Certified** — enterprise-grade blockchain development |
+| ☁️ AWS Cloud Foundations | **Certified** |
+| ☁️ AWS Cloud Architecting | **Certified** |
+| 🎓 B.Tech Computer Science | **CGPA 8.81 / 10** — VIT Andhra Pradesh |
 
 ---
 
-### `$ ping sagar --collab`
+### Currently
 
-<div align="center">
-
-```
-If you're building something at the edge of AI or Web3
-— or both — I want to hear about it.
-
-Open to: Research · Collabs · Internships · Full-time · Freelance
-```
-
-[![LinkedIn](https://img.shields.io/badge/Let%27s%20Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sagar-dubile-2079b0306/)&nbsp;[![Email](https://img.shields.io/badge/Drop%20a%20Mail-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubile.sagarr@gmail.com)
-
-</div>
+- 🔭 Building at the intersection of **LLMs and blockchain** — working on ideas that combine both
+- 📖 Going deeper into **RAG pipelines**, **LLM fine-tuning**, and **ZK proofs**
+- 🤝 Open to **full-time roles**, **research collaborations**, and **open-source projects**
+- 💬 Always happy to talk AI, Web3, or anything technically interesting
 
 ---
 
@@ -188,13 +160,13 @@ Open to: Research · Collabs · Internships · Full-time · Freelance
 
 <div align="center">
 
-```
-┌─────────────────────────────────────────────────────┐
-│  Most devs wait to be ready.                        │
-│  I ship, then get ready.          — Sagar           │
-└─────────────────────────────────────────────────────┘
-```
+*I build things because problems genuinely bother me until they're solved.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d1a,50:050530,100:00f7ff&height=140&section=footer"/>
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-dubile-2079b0306/)
+[![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubile.sagarr@gmail.com)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:0f0f4a,100:0a0a0f&height=120&section=footer"/>
