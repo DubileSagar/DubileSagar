@@ -8,6 +8,7 @@
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-sagardubile.dev-00d4ff?style=for-the-badge&logo=firefox&logoColor=white)](https://sagardubile.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-dubile-2079b0306/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubile.sagarr@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DubileSagar)
@@ -131,6 +132,23 @@ Worked as a Blockchain Engineer intern building and auditing Ethereum smart cont
 
 ---
 
+### Experience
+
+**⛓️ Blockchain Engineer Intern — Shamgar Software Solutions**
+`Nov 2025 – Mar 2026 · Remote, India`
+
+My first production engineering role. Worked directly on Ethereum smart contract development — not tutorials, not sandboxes, actual contracts going through review and deployment pipelines.
+
+- Designed and developed Ethereum smart contract modules with a focus on secure, exploit-resistant logic
+- Conducted gas optimization passes and vulnerability assessments on existing contract codebases
+- Built unit testing and contract validation pipelines that caught logic flaws before they reached deployment
+- Supported decentralized application workflows and contributed to blockchain solution architecture decisions
+- Collaborated on code reviews with a focus on security-first thinking across the team
+
+> `Solidity` &nbsp;·&nbsp; `Ethereum` &nbsp;·&nbsp; `Hardhat` &nbsp;·&nbsp; `Remix` &nbsp;·&nbsp; `Smart Contract Auditing` &nbsp;·&nbsp; `Gas Optimization` &nbsp;·&nbsp; `Unit Testing`
+
+---
+
 ### Certifications & Achievements
 
 | | |
@@ -164,6 +182,7 @@ Worked as a Blockchain Engineer intern building and auditing Ethereum smart cont
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/sagardubile.dev-00d4ff?style=for-the-badge&logo=firefox&logoColor=white)](https://sagardubile.dev)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-dubile-2079b0306/)
 [![Email](https://img.shields.io/badge/Send_a_Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubile.sagarr@gmail.com)
 
