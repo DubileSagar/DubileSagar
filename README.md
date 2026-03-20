@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sagar+Ramesh+Dubile+%F0%9F%91%8B;AI+%2B+Blockchain+%2B+Chaos+%3D+Me;Building+things+that+shouldn't+work...;...but+somehow+do+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Sagar+Ramesh+Dubile+%F0%9F%91%8B;AI+%2B+Blockchain+%2B+Chaos+%3D+Me;Building+things+that+shouldn't+work...;...but+somehow+do+%F0%9F%94%A5)](https://github.com/DubileSagar)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00f7ff,100:7c3aed&height=200&section=header&text=Sagar%20Dubile&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=AI%20Engineer%20%7C%20Blockchain%20Dev%20%7C%20Problem%20Wrecker&descAlignY=58&descSize=18" />
 
@@ -129,12 +129,12 @@ class Sagar:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00f7ff&icon_color=7c3aed&text_color=ffffff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f7ff&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DubileSagar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d0d&title_color=00f7ff&icon_color=7c3aed&text_color=ffffff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DubileSagar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d0d&title_color=00f7ff&text_color=ffffff"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00f7ff&fire=7c3aed&currStreakLabel=00f7ff" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DubileSagar&theme=tokyonight&hide_border=true&background=0d0d0d&ring=00f7ff&fire=7c3aed&currStreakLabel=00f7ff" />
 </div>
 
 ---
@@ -159,9 +159,9 @@ class Sagar:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sagar-dubile-2079b0306/)
 [![Gmail](https://img.shields.io/badge/Gmail-Mail%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dubile.sagarr@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DubileSagar)
 
 </div>
 
@@ -170,7 +170,7 @@ class Sagar:
 <div align="center">
 
 <!-- Snake animation — add via GitHub Actions -->
-![Snake animation](https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/DubileSagar/DubileSagar/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -184,7 +184,7 @@ class Sagar:
 ╚══════════════════════════════════════════╝
 ```
 
-![Visitor Badge](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=00f7ff&style=flat-square&label=Profile+Views)
+![Visitor Badge](https://komarev.com/ghpvc/?username=DubileSagar&color=00f7ff&style=flat-square&label=Profile+Views)
 
 </div>
 
