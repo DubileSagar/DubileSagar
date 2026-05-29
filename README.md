@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d0d2e,60:0f0f4a,100:00d4ff&height=200&section=header&text=Sagar%20Ramesh%20Dubile&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=AI%20Engineer%20%7C%20Blockchain%20Developer%20%7C%20Builder&descAlignY=78&descSize=16&descColor=8ab4f8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:0d0d2e,60:0f0f4a,100:00d4ff&height=200&section=header&text=Sagar%20Ramesh%20Dubile&fontSize=52&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=AI%20Engineer%20%7C%20Security%20%7C%20Blockchain&descAlignY=78&descSize=16&descColor=8ab4f8"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+AI+systems+that+solve+real+problems.;Writing+smart+contracts+that+can%27t+be+exploited.;94%25+facial+recognition+accuracy+%E2%80%94+production-ready.;Semantic+search+that+understands+meaning%2C+not+keywords.;SIH+2025+National+Finalist.+IBM+Blockchain+Certified.;Open+to+opportunities+%E2%80%94+let%27s+build+something+real.)](https://github.com/DubileSagar)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=780&lines=Hybrid+ML+WAF+blocking+SQLi+%26+XSS+in+real-time.;RAG+pipelines+over+11k+conversations+%E2%80%94+no+LangChain.;94%25+facial+recognition+accuracy+%E2%80%94+production-ready.;Semantic+search+that+understands+meaning%2C+not+keywords.;Smart+contracts+that+can%27t+be+exploited.;SIH+2025+National+Finalist+%C2%B7+IBM+Blockchain+Certified.;Open+to+full-time+roles+%E2%80%94+let%27s+build+something+real.)](https://github.com/DubileSagar)
 
 <br/>
 
@@ -18,20 +18,20 @@
 
 ---
 
-<img align="right" width="340" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### About Me
 
-I'm a final-year CS student at VIT Andhra Pradesh with a deep focus on **AI/ML** and **Blockchain engineering**. I don't just study these fields — I build with them.
+Final-year CS student at VIT Andhra Pradesh building at the intersection of **AI/ML**, **security**, and **blockchain**. I don't just study these fields — I ship with them.
 
-In the past year I've shipped a civic AI platform used for real grievance tracking, built a semantic search engine from scratch using transformer embeddings, and written production Ethereum smart contracts with gas optimization and security auditing.
+In the past year: a hybrid ML firewall that blocks zero-day web attacks, two production RAG and semantic search systems built from scratch (no LangChain, no LlamaIndex), a civic AI platform tracking real grievances, a frame-wise CCTV facial recognition pipeline, and production Ethereum smart contracts with gas optimization and security auditing.
 
 I care about systems that work in the real world — not just demos.
 
 ```
 Location   →  India 🇮🇳
 Education  →  B.Tech CS · VIT-AP · CGPA 8.81 / 10
-Focus      →  AI Engineering × Blockchain Development  
+Focus      →  AI Engineering · Security · Blockchain
 Status     →  Open to full-time / internship roles 🟢
 ```
 
@@ -39,39 +39,69 @@ Status     →  Open to full-time / internship roles 🟢
 
 ---
 
-### What I've Built
+### Projects
 
 <br/>
 
-**🏙️ JanVaani — AI-Powered Civic Grievance Platform**
+**🛡️ Sentrix — Hybrid ML-Powered Web Application Firewall**
 
-A platform that brings accountability to civic issue resolution. Citizens report problems, AI auto-classifies them, and district-level RBAC dashboards track every complaint through its lifecycle. Built with real scalability in mind — secure APIs, modular architecture, SLA adherence monitoring.
+An enterprise-grade WAF sitting as a transparent reverse proxy in front of any web app — zero code changes required. Every HTTP request passes through a two-stage detection pipeline: 60+ handcrafted regex signatures catch textbook attacks instantly, then a fine-tuned DistilBERT transformer catches obfuscated and zero-day variants that rules alone miss. A decision engine fuses both outputs with calibrated confidence thresholds — conservative by design, because false positives are expensive.
 
-> `+45% prioritization accuracy` &nbsp;·&nbsp; `+60% citizen engagement` &nbsp;·&nbsp; `-35% resolution time`
+Ships with a real-time WebSocket dashboard (live traffic feed, threat analytics, payload inspector), full SQLite audit trail, Docker Compose for local orchestration, and Kubernetes/GKE manifests for one-click cloud deployment.
+
+> `DistilBERT (fine-tuned)` &nbsp;·&nbsp; `60+ Regex Signatures` &nbsp;·&nbsp; `Reverse Proxy` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `Docker` &nbsp;·&nbsp; `Kubernetes / GKE` &nbsp;·&nbsp; `SQLi · XSS · Path Traversal · CMDi`
+
+---
+
+**🧠 KaStack — RAG + Persona System over 11k Conversations**
+
+A production-aware Retrieval-Augmented Generation system built without LangChain or LlamaIndex — every component written from scratch. Ingests 11,000+ multi-turn conversations, detects topic boundaries via cosine similarity drift against the full topic centroid (not a rolling window), builds a multi-dimensional persona in three focused passes, and answers queries using two-stage FAISS retrieval combining topic summaries with raw chunks.
+
+Key design choices: Haiku for bulk summarisation, Sonnet for user-facing chat; FAISS IndexFlatIP for exact cosine search; persona extraction capped at 5k messages for LLM passes while programmatic communication stats run on the full dataset.
+
+> `Two-stage FAISS retrieval` &nbsp;·&nbsp; `Cosine drift topic detection` &nbsp;·&nbsp; `3-pass persona extraction` &nbsp;·&nbsp; `Sentence Transformers` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `Built from scratch`
 
 ---
 
 **🔍 Neural Semantic Search Engine**
 
-Most search is keyword matching with a fancy UI. This isn't. Built a full semantic retrieval system using Sentence Transformers and ChromaDB — the engine understands *what you mean*, not just what you typed. Added PCA + Fuzzy C-Means for soft topic clustering and a custom semantic cache served via FastAPI for near-zero latency on repeat queries.
+Full semantic retrieval system over the 20 Newsgroups dataset (~18k documents). The core insight: Fuzzy C-Means topic clusters don't just label documents — they power the cache index, turning O(n) lookups into O(n/k). PCA to 50 dims before clustering avoids the curse of dimensionality; an FPC sweep from k=5 to k=25 picks the optimal cluster count automatically.
 
-> `Transformer-based retrieval` &nbsp;·&nbsp; `Custom semantic cache` &nbsp;·&nbsp; `FastAPI serving` &nbsp;·&nbsp; `Sub-ms cached queries`
+Result: 1 cache entry serving 4 hits across completely different GPU-buying rephrasings — 71.4% hit rate in demo runs.
+
+> `Fuzzy C-Means · PCA` &nbsp;·&nbsp; `Cluster-bucketed semantic cache` &nbsp;·&nbsp; `ChromaDB` &nbsp;·&nbsp; `FastAPI` &nbsp;·&nbsp; `71.4% hit rate`
+
+---
+
+**🏙️ JanVaani — AI-Powered Civic Grievance Platform**
+
+Brings accountability to civic issue resolution. Citizens report problems, AI auto-classifies and prioritises them, and district-level RBAC dashboards track every complaint through its lifecycle with SLA adherence monitoring.
+
+> `+45% prioritisation accuracy` &nbsp;·&nbsp; `+60% citizen engagement` &nbsp;·&nbsp; `-35% resolution time`
 
 ---
 
 **👁️ TraceID — Frame-wise CCTV Facial Recognition**
 
-Python-based system for identifying missing individuals across CCTV footage. Frame-by-frame face detection, automated timestamp logging, optimized matching pipeline for real-time throughput. Reduced manual review effort by 70% with 94% identification accuracy.
+Identifies missing individuals across CCTV footage. Frame-by-frame face detection, automated timestamp logging, optimised matching pipeline for real-time throughput.
 
-> `94% accuracy` &nbsp;·&nbsp; `-70% manual effort` &nbsp;·&nbsp; `Real-time frame processing`
+> `94% identification accuracy` &nbsp;·&nbsp; `-70% manual review effort` &nbsp;·&nbsp; `Real-time frame processing`
 
 ---
 
-**⛓️ Smart Contract Engineering — Shamgar Software Solutions** *(Nov 2025 – Mar 2026)*
+### Experience
 
-Worked as a Blockchain Engineer intern building and auditing Ethereum smart contracts. Designed modular contract systems with gas optimization, ran vulnerability assessments, and built unit testing pipelines that caught logic flaws before deployment.
+**⛓️ Blockchain Engineer Intern — Shamgar Software Solutions**
+`Nov 2025 – Mar 2026 · Remote, India`
 
-> `Solidity` &nbsp;·&nbsp; `Hardhat` &nbsp;·&nbsp; `Gas optimization` &nbsp;·&nbsp; `Security auditing` &nbsp;·&nbsp; `Unit testing pipelines`
+Production Ethereum smart contract development — not sandboxes, actual contracts through review and deployment pipelines.
+
+- Designed smart contract modules focused on secure, exploit-resistant logic
+- Ran gas optimisation passes and vulnerability assessments on existing codebases
+- Built unit testing pipelines that caught logic flaws before deployment
+- Contributed to decentralised application architecture and security-first code reviews
+
+> `Solidity` &nbsp;·&nbsp; `Ethereum` &nbsp;·&nbsp; `Hardhat` &nbsp;·&nbsp; `Remix` &nbsp;·&nbsp; `Gas Optimisation` &nbsp;·&nbsp; `Contract Auditing`
 
 ---
 
@@ -79,13 +109,19 @@ Worked as a Blockchain Engineer intern building and auditing Ethereum smart cont
 
 <div align="center">
 
-**Artificial Intelligence & Machine Learning**
+**AI · ML · Security**
 
 ![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=4fc3f7)
 ![PyTorch](https://img.shields.io/badge/PyTorch-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-1a1a2e?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a1a2e?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-1a1a2e?style=for-the-badge&logo=huggingface&logoColor=FFD21F)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1a1a2e?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+
+**RAG · Search · NLP**
+
+![Sentence Transformers](https://img.shields.io/badge/Sentence_Transformers-1a1a2e?style=for-the-badge&logo=pytorch&logoColor=4fc3f7)
+![FAISS](https://img.shields.io/badge/FAISS-1a1a2e?style=for-the-badge&logo=meta&logoColor=0467DF)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-1a1a2e?style=for-the-badge&logo=databricks&logoColor=FF3621)
 
 **Blockchain & Web3**
 
@@ -94,15 +130,13 @@ Worked as a Blockchain Engineer intern building and auditing Ethereum smart cont
 ![Hardhat](https://img.shields.io/badge/Hardhat-1a1a2e?style=for-the-badge&logo=hardhat&logoColor=F7DF1E)
 ![Web3.js](https://img.shields.io/badge/Web3.js-1a1a2e?style=for-the-badge&logo=web3dotjs&logoColor=F16822)
 
-**Data · APIs · Cloud · Tools**
+**APIs · Cloud · Infra**
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-1a1a2e?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Pandas](https://img.shields.io/badge/Pandas-1a1a2e?style=for-the-badge&logo=pandas&logoColor=4fc3f7)
-![Power BI](https://img.shields.io/badge/Power_BI-1a1a2e?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Docker](https://img.shields.io/badge/Docker-1a1a2e?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1a1a2e?style=for-the-badge&logo=kubernetes&logoColor=326CE5)
 ![AWS](https://img.shields.io/badge/AWS-1a1a2e?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![n8n](https://img.shields.io/badge/n8n-1a1a2e?style=for-the-badge&logo=n8n&logoColor=EA4B71)
 ![Git](https://img.shields.io/badge/Git-1a1a2e?style=for-the-badge&logo=git&logoColor=F05032)
-![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
 ![SQL](https://img.shields.io/badge/SQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=4fc3f7)
 
 </div>
@@ -132,23 +166,6 @@ Worked as a Blockchain Engineer intern building and auditing Ethereum smart cont
 
 ---
 
-### Experience
-
-**⛓️ Blockchain Engineer Intern — Shamgar Software Solutions**
-`Nov 2025 – Mar 2026 · Remote, India`
-
-My first production engineering role. Worked directly on Ethereum smart contract development — not tutorials, not sandboxes, actual contracts going through review and deployment pipelines.
-
-- Designed and developed Ethereum smart contract modules with a focus on secure, exploit-resistant logic
-- Conducted gas optimization passes and vulnerability assessments on existing contract codebases
-- Built unit testing and contract validation pipelines that caught logic flaws before they reached deployment
-- Supported decentralized application workflows and contributed to blockchain solution architecture decisions
-- Collaborated on code reviews with a focus on security-first thinking across the team
-
-> `Solidity` &nbsp;·&nbsp; `Ethereum` &nbsp;·&nbsp; `Hardhat` &nbsp;·&nbsp; `Remix` &nbsp;·&nbsp; `Smart Contract Auditing` &nbsp;·&nbsp; `Gas Optimization` &nbsp;·&nbsp; `Unit Testing`
-
----
-
 ### Certifications & Achievements
 
 | | |
@@ -163,10 +180,10 @@ My first production engineering role. Worked directly on Ethereum smart contract
 
 ### Currently
 
-- 🔭 Building at the intersection of **LLMs and blockchain** — working on ideas that combine both
-- 📖 Going deeper into **RAG pipelines**, **LLM fine-tuning**, and **ZK proofs**
+- 🔭 Building at the intersection of **LLMs, security, and blockchain**
+- 📖 Going deeper into **agentic systems**, **LLM fine-tuning**, and **ZK proofs**
 - 🤝 Open to **full-time roles**, **research collaborations**, and **open-source projects**
-- 💬 Always happy to talk AI, Web3, or anything technically interesting
+- 💬 Always happy to talk AI, security, Web3, or anything technically interesting
 
 ---
 
